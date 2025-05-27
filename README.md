@@ -4,6 +4,9 @@
 
 This project analyzes housing data to predict median house prices using machine learning models. It implements Random Forest and Gradient Boosting regression models, evaluates their performance, and identifies the most influential features affecting house prices.
 
+![image](https://github.com/user-attachments/assets/ca253a7e-ae8c-4110-82df-052a27fb0254)
+
+
 ## Features
 
 * **Data Exploration**: Performed exploratory data analysis to understand the distribution and relationships of features.
